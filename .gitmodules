@@ -1,0 +1,21 @@
+[submodule "plugins/vim-commentary"]
+	path = plugins/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule "plugins/taglist"]
+	path = plugins/taglist
+	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "plugins/syntastic"]
+	path = plugins/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "plugins/vim-sleuth"]
+	path = plugins/vim-sleuth
+	url = git@github.com:tpope/vim-sleuth.git
+[submodule "plugins/vim-pathogen"]
+	path = plugins/vim-pathogen
+	url = git@github.com:tpope/vim-pathogen
+[submodule "plugins/vim-airline"]
+	path = plugins/vim-airline
+	url = git@github.com:bling/vim-airline.git
+[submodule "plugins/nerdtree"]
+	path = plugins/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
