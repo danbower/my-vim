@@ -3,6 +3,8 @@ if $TERM == "xterm-256color"
   set t_Co=256
 endif
 
+colors desert " Colour scheme 
+
 syntax on " Syntax highlighting
 
 " Keep text highlighted when visually shifting blocks
