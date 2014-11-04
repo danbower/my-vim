@@ -20,6 +20,7 @@ set hlsearch " Enable search highlighting
 set incsearch " Highlight results as typing
 set encoding=utf-8  " The encoding displayed
 set fileencoding=utf-8  " The encoding written to file
+set noswapfile " Disable swap files
 
 " Indentation of 4
 set tabstop=4
