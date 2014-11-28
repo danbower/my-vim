@@ -22,6 +22,7 @@ set encoding=utf-8  " The encoding displayed
 set fileencoding=utf-8  " The encoding written to file
 set noswapfile " Disable swap files
 set backspace=2 " Make backspace work like most other apps
+set hidden " Persist undo history when switching buffers
 
 " Indentation of 4
 set tabstop=4
