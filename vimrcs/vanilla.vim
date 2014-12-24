@@ -1,5 +1,5 @@
 " Fancy colours
-if $TERM == "xterm-256color"
+if $COLORTERM == 'gnome-terminal'
   set t_Co=256
 endif
 
