@@ -39,3 +39,4 @@ map <right> <nop>
 " General mappings
 map <leader>bn :bnext<CR>
 map <leader>bb :bprevious<CR>
+map <leader>dd "_dd
