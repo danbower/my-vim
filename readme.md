@@ -15,4 +15,3 @@ You may need to install `ctags` for the [taglist](https://github.com/vim-scripts
 - [vim-airline](https://github.com/bling/vim-airline)
 - [vim-commentary](https://github.com/tpope/vim-commentary)
 - [vim-pathogen](https://github.com/tpope/vim-pathogen)
-- [vim-sleuth](https://github.com/tpope/vim-sleuth)
