@@ -7,9 +7,6 @@
 [submodule "plugins/syntastic"]
 	path = plugins/syntastic
 	url = git@github.com:scrooloose/syntastic.git
-[submodule "plugins/vim-sleuth"]
-	path = plugins/vim-sleuth
-	url = git@github.com:tpope/vim-sleuth.git
 [submodule "plugins/vim-pathogen"]
 	path = plugins/vim-pathogen
 	url = git@github.com:tpope/vim-pathogen
