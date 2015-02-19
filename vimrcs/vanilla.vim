@@ -40,6 +40,7 @@ map <right> <nop>
 map <leader>bn :bnext<CR>
 map <leader>bb :bprevious<CR>
 map <leader>dd "_dd
+map! <leader>o <C-x><C-o>
 
 " Prevent visual selections copying into register. Pasting with p will copy visual selection
 " into register whereas P will not.
