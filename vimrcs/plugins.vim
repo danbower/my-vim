@@ -1,4 +1,4 @@
-call pathogen#infect('~/.my-vim/plugins/{}') " Get pathogen to treat param as ~/.vim/bundle/
+call pathogen#infect('~/.my-vim/plugins/{}') " Point pathogen to custom plugins directory
 call pathogen#helptags() " Generate docs for :help
 
 " airline
