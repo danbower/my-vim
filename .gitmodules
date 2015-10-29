@@ -19,3 +19,6 @@
 [submodule "plugins/vim-twig"]
 	path = plugins/vim-twig
 	url = git@github.com:evidens/vim-twig.git
+[submodule "plugins/vim-markdown"]
+	path = plugins/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
