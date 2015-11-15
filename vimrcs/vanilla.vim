@@ -41,3 +41,4 @@ map <leader>bn :bnext<CR>
 map <leader>bb :bprevious<CR>
 map <leader>dd "_dd
 map! <leader>o <C-x><C-o>
+map <leader>t :NERDTreeToggle<CR>
