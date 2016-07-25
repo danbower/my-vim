@@ -7,6 +7,9 @@ colors desert " Colour scheme
 
 syntax on " Syntax highlighting
 
+" Highlighted text colour when searching
+hi Search cterm=NONE ctermfg=red ctermbg=blue
+
 " Keep text highlighted when visually shifting blocks
 xnoremap > >gv
 xnoremap < <gv
