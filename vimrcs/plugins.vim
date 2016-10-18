@@ -10,3 +10,6 @@ let g:airline#extensions#tabline#fnamemod = ':t' " Display filename
 " taglist
 let Tlist_Use_Right_Window=1 " Ensure taglist opens in right-hand window
 
+" syntastic
+let g:syntastic_php_checkers = ['php', 'phpcs']
+let g:syntastic_php_phpcs_args = "--standard=PSR2"
