@@ -1,0 +1,13 @@
+#! /bin/bash
+
+if [ -f ~/.vimrc ];
+then
+    mv ~/.vimrc ~/.vimrc.old
+    echo 'Moved old ~/.vimrc to ~/.vimrc.old'
+fi
+
+cd ~/.my-vim
+git submodule update --init
+cp vimrcs/.vimrc ../.vimrc
+
+echo 'Installed my-vim!';
