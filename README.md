@@ -17,3 +17,4 @@ You may need to install `ctags` for the [taglist](https://github.com/vim-scripts
 - [vim-pathogen](https://github.com/tpope/vim-pathogen)
 - [vim-twig](https://github.com/evidens/vim-twig)
 - [vim-markdown](https://github.com/plasticboy/vim-markdown)
+- [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)

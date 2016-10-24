@@ -22,3 +22,6 @@
 [submodule "plugins/vim-markdown"]
 	path = plugins/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "plugins/ctrlp"]
+	path = plugins/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
